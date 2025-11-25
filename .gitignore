@@ -1,0 +1,31 @@
+# Build artifacts
+bin/
+build/
+
+# Python virtual environment
+.venv/
+
+# Generated files (can be regenerated with make run/plot)
+benchmark_results.csv
+visualization.html
+plot_results.py
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+
+# Keep these in repo:
+# - homeworkV.tex (report source)
+# - homeworkV.pdf (compiled report)
+# - drbg_comparison.png (for README)
+
+# Private/local files
+task.jpeg
+.DS_Store
