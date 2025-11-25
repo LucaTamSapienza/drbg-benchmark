@@ -21,10 +21,10 @@ plot_results.py
 *.bbl
 *.blg
 
-# Keep these in repo:
-# - homeworkV.tex (report source)
-# - homeworkV.pdf (compiled report)
-# - drbg_comparison.png (for README)
+# LaTeX source and report (keep local only)
+homeworkV.tex
+homeworkV.pdf
+report.md
 
 # Private/local files
 task.jpeg
